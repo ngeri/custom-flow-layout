@@ -1,0 +1,25 @@
+.DS_Store
+## Build generated
+**/Build/
+**/DerivedData/
+**/DerivedData.noindex/
+**/Index/DataStore/
+**/Index.noindex/DataStore/
+**/IDEWorkspaceChecks.plist
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+!default.mode1v3
+*.mode2v3
+!default.mode2v3
+*.perspectivev3
+!default.perspectivev3
+xcuserdata/
+*.moved-aside
+*.xccheckout
+*.xcscmblueprint
+*.idea/
+*.hmap
+*.ipa
+*.dSYM.zip
+*.dSYM
